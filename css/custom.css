@@ -1,0 +1,27 @@
+html body {
+	/*background: #EF9A9A;*/
+}
+.body-inner {
+	margin-top: 7%;
+}
+.header {
+	padding: 0 4% 0px 4%;
+}
+#warning {
+	margin-left: 10%;
+	color: #F6A2AD;
+}
+#list_roomies {
+	float: right;
+}
+/*#add_new {
+	position: fixed;
+	right: 45px;
+	bottom: 45px;
+}*/
+/*.total {
+	background: #004d40;
+}
+.total > span {
+	color: #ffffff;
+}*/
